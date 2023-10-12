@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\2022\hivers\420POO\prjWinCsCoursComplet\frmWinCsProjet1\bin\Debug\frmWinCsProjet1.exe.config
+C:\Users\user\source\repos\2022\hivers\420POO\prjWinCsCoursComplet\frmWinCsProjet1\bin\Debug\frmWinCsProjet1.exe
+C:\Users\user\source\repos\2022\hivers\420POO\prjWinCsCoursComplet\frmWinCsProjet1\bin\Debug\frmWinCsProjet1.pdb
+C:\Users\user\source\repos\2022\hivers\420POO\prjWinCsCoursComplet\frmWinCsProjet1\obj\Debug\frmWinCsProjet1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\2022\hivers\420POO\prjWinCsCoursComplet\frmWinCsProjet1\obj\Debug\frmWinCsProjet1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\2022\hivers\420POO\prjWinCsCoursComplet\frmWinCsProjet1\obj\Debug\frmWinCsProjet1.frmPrincipal.resources
+C:\Users\user\source\repos\2022\hivers\420POO\prjWinCsCoursComplet\frmWinCsProjet1\obj\Debug\frmWinCsProjet1.Properties.Resources.resources
+C:\Users\user\source\repos\2022\hivers\420POO\prjWinCsCoursComplet\frmWinCsProjet1\obj\Debug\frmWinCsProjet1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\2022\hivers\420POO\prjWinCsCoursComplet\frmWinCsProjet1\obj\Debug\frmWinCsProjet1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\2022\hivers\420POO\prjWinCsCoursComplet\frmWinCsProjet1\obj\Debug\frmWinCsProjet1.exe
+C:\Users\user\source\repos\2022\hivers\420POO\prjWinCsCoursComplet\frmWinCsProjet1\obj\Debug\frmWinCsProjet1.pdb
+C:\Users\user\source\repos\2022\hivers\420POO\prjWinCsCoursComplet\frmWinCsProjet1\obj\Debug\frmWinCsProjet1.frmCalculatriceStandard.resources
+C:\Users\user\source\repos\2022\hivers\420POO\prjWinCsCoursComplet\frmWinCsProjet1\obj\Debug\frmWinCsProjet1.frmCalculatriceScientifique.resources
+C:\Users\user\source\repos\2022\hivers\420POO\prjWinCsCoursComplet\frmWinCsProjet1\obj\Debug\frmWinCsProjet1.frmBureauDeChange.resources

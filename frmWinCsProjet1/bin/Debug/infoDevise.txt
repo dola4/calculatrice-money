@@ -1,0 +1,78 @@
+Afghanistan
+Afghani
+87,182
+Algerie
+Dinar Algérien
+144,066
+Bangladesh
+Taka
+86,414
+Chine
+Yuan
+6,552
+Europe
+Euro
+0,942
+Israel
+Shekel
+3,294
+Kazakhstan
+Tenge Kazakh
+450,981
+Libye
+Dinar Libyen
+4,717
+Maroc
+Dirham
+9,905
+Mexique
+Peso Mexicain
+20,333
+Moldavie
+Leu Moldave
+18,581
+Nicaragua
+Cordoba
+35,936
+Nigeria
+Naira
+416,096
+Pakistan
+Roupie Pakistanaise
+185,504
+Qatar
+Riyal du Qatar
+3,658
+Russie
+Rouble Russe
+75,935
+Serbie
+Dinar Serbe
+110,341
+Soudan
+Livre Soudanaise
+449,020
+Suisse
+Franc Suisse
+0,964
+Suede
+Couronne Suedoise
+9,780
+Tadjikistan
+Somoni
+12,723
+Thailande
+Bath
+34,334
+Tunisie
+Dinar Tunisien
+3,046
+Ukraine
+Hryvnia
+29,464
+Uruguay
+Peso Uruguayen
+41,003
+Yemen
+Rial Yemenite
+251,005
